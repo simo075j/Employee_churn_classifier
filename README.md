@@ -9,9 +9,9 @@
 * Trough feature importance extraction, the top causes for employee churn is ranked, analysed and presented
 
 ## Code and data used
-**Dataset: 35 features, 310 observations**
+**Dataset:** 35 features, 310 observations
 
-**Rstudio version:3.6.2**
+**Rstudio version:** 3.6.2
 
-**Packages used: caret, ggplot2, dplyr, ROCR and DataExplorer**
+**Packages used:** caret, ggplot2, dplyr, ROCR and DataExplorer
 
