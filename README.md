@@ -19,5 +19,5 @@ The main objective of this project was to provide a fictional company with a too
 **Packages used:** caret,recipes, ggplot2, dplyr, ROCR and DataExplorer
 
 ## Findings and implications
-![Feature importance](/feature importance.png)
+![Feature importance](Employee_churn_classifier/feature importance.png)
 
