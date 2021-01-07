@@ -19,5 +19,10 @@ The main objective of this project was to provide a fictional company with a too
 **Packages used:** caret,recipes, ggplot2, dplyr, ROCR and DataExplorer
 
 ## Findings and implications
+
+
+
+![](candidate%20models.png)
+
 ![Feature importance](feature%20importance.png)
 
