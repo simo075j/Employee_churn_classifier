@@ -14,7 +14,7 @@ The main objective of this project was to provide a fictional company with a too
 *The full project report can be found @* [Churn project report](Churn%20project.pdf)
 
 ## Code and data used
-**Dataset:** 35 features, 310 observations - Including information about employees such as salary, manager, senority, gener etc.
+**Dataset:** 35 features, 310 observations - Including information about employees such as salary, manager, senority, gender etc.
 
 **Rstudio version:** 3.6.2
 
