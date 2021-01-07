@@ -11,6 +11,8 @@
 # Project description
 The main objective of this project was to provide a fictional company with a tool to anticipate and classify employee churn. The project was constrained to a very small dataset and only usage of elastic nets and logistic regression. The reasoning for only incoorporating simple algorithms was to ensure model transparrency and interpretability.
 
+*The full project report can be found @ [](Employee%20churn%20prediction.pdf)
+
 ## Code and data used
 **Dataset:** 35 features, 310 observations - Including information about employees such as salary, manager, senority, gener etc.
 
